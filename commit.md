@@ -1,1 +1,1 @@
-10 elements changed on 1/13/2019
+Laravel scout installed on 1/15/2016
