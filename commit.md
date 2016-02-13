@@ -1,1 +1,1 @@
-Ordering posts in correct order on 2/10/2016
+post model and database set on 2/13/2016
