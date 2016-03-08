@@ -1,1 +1,1 @@
-Update app.js as MyVuetable.vue was updated on 3/10/2016
+Update app.js as MyVuetable.vue was updated on 3/8/2016
