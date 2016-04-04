@@ -1,1 +1,1 @@
-fix vue select props type warning on 4/1/2016
+add frontend assets on 4/4/2016
