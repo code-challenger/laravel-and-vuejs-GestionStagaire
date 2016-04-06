@@ -1,1 +1,1 @@
-add frontend assets on 4/4/2016
+add new webpack dev server http access variable on 4/6/2016
